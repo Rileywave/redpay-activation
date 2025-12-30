@@ -44,8 +44,8 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "6709023538",
-    accountName: "OFORAH MATTHEW",
+    accountNumber: "6532692785",
+    accountName: "ODINAKA DAVID",
     bank: "Moniepoint MFB",
     amount: "14,900",
   };
