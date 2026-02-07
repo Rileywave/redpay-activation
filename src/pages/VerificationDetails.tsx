@@ -44,9 +44,9 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "1287439811",
-    accountName: "OFORAH MATTHEW",
-    bank: "Paga",
+    accountNumber: "4507261931",
+    accountName: "MATTHEW OFORAH EMENIKE",
+    bank: "Nombank/Amucha Bank",
     amount: "14,900",
   };
 
