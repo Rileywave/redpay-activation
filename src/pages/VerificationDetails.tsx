@@ -44,8 +44,8 @@ const VerificationDetails = () => {
   };
 
   const accountDetails = {
-    accountNumber: "8057367024",
-    accountName: "NMESOMA VALENTINE JOHN",
+    accountNumber: "0846976211",
+    accountName: "MATTHEW OFORAH",
     bank: "Paga",
     amount: "14,900",
   };
